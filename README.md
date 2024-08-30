@@ -77,9 +77,7 @@ Windows:
 git clone https://github.com/pawantech12/filmlane-website.git
 ```
 
-### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
 
 ### License
 
