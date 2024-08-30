@@ -1,8 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/filmlane-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/filmlane-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/filmlane-website?style=social)
+
 
   <br />
 
@@ -10,7 +8,7 @@
 
   FilmLane is fully responsive Movie Streaming website made using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/filmlane-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ramscripter.github.io/Movie-app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -56,26 +54,6 @@ Fontawesome Icon :
  
  * I have Used Google Fonts - `Poppins`.For Using this font copy below code and paste it in your project :
  
- ```html
- <!-- google font link  -->
- <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
- ```
-
-### Run Locally
-
-To run **FilmLane** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/pawantech12/filmlane-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/pawantech12/filmlane-website.git
-```
 
 
 
